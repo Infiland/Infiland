@@ -2,6 +2,8 @@
 I'm the guy who made [The Colorful Creature](https://store.steampowered.com/app/1651680/The_Colorful_Creature/), [Asteroids ++](https://store.steampowered.com/app/2407300/Asteroids/) and [Monophobia Echoes](https://store.steampowered.com/app/3412040/This_is_a_totally_a_fake_url_and_not_real_do_not_fact_check_anything_brauuhh!/) on Steam!
 
 ### Other Projects
+[ReddieCode](https://reddiecode.com) - Learn to code the fun way!
+
 [The Colorful Creature REPO](https://github.com/Infiland/TheColorfulCreature) - My first commercial game, now open source!
 
 [GM2Godot REPO](https://github.com/Infiland/GM2Godot) - An open source tool for porting GameMaker assets to Godot (for now!)
