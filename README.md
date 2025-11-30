@@ -12,5 +12,3 @@ I'm the guy who made [The Colorful Creature](https://store.steampowered.com/app/
 [ReddieCode](https://reddiecode.com) - Learn to code the fun way!
 
 If i happen to post something open source, i'll post it here, I'd be glad if you decide to support my older projects for newer platforms
-
-![Infiland's GitHub stats](https://github-readme-stats.vercel.app/api?username=infiland&show_icons=true&theme=radical)
