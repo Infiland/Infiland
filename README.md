@@ -9,6 +9,6 @@ I'm the guy who made [The Colorful Creature](https://store.steampowered.com/app/
 
 [My official website](https://infi.land) - The best website on the internet
 
-[ReddieCode](https://reddiecode.com) - Learn to code the fun way!
+[ReddieCode](https://reddiecode.com) - Learn to code the fun way! (Migrating to https://reddiecode.infi.land soon!)
 
 If i happen to post something open source, i'll post it here, I'd be glad if you decide to support my older projects for newer platforms
