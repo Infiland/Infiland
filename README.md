@@ -1,5 +1,5 @@
 # Welcome to my profile!
-I'm the guy who made [The Colorful Creature](https://store.steampowered.com/app/1651680/The_Colorful_Creature/), [Asteroids ++](https://store.steampowered.com/app/2407300/Asteroids/) and [Monophobia Echoes](https://store.steampowered.com/app/3412040/) on Steam!
+I'm the guy who made and published [The Colorful Creature](https://store.steampowered.com/app/1651680/The_Colorful_Creature/), [Asteroids ++](https://store.steampowered.com/app/2407300/Asteroids/) and [Monophobia Echoes](https://store.steampowered.com/app/3412040/) on Steam!
 
 Currently helping contribution for the [Godot Engine](https://github.com/godotengine/godot)
 
